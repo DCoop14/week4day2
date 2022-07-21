@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://fgdoilxz:fNbVjmEi7vi74O8U8td7ON4NTcikax2k@castor.db.elephantsql.com/fgdoilxz",
+            "name": "e_commerce"
+        }
+    ]
+}
